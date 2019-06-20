@@ -1,4 +1,4 @@
-# Surface Earth Processes
+# Climate Conversations
 
 This git repository is used to distribute homework and interactive exercises for Climate Conversations using github classroom. 
 
